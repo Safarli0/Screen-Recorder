@@ -1,18 +1,16 @@
 Screen and Computer Audio Recorder for Windows (GUI Application)
 
-Features
+## Features
 
-Record your screen using Start/Stop buttons.
+- Record your screen using Start/Stop buttons.
+- Capture internal computer audio.
+- Save the recorded video to a file of your choice.
 
-Capture internal computer audio.
-
-Save the recorded video to a file of your choice.
-
-Installation
+## Installation
 
 pip install -r requirements.txt
 
-Run
+## Run
 
 python main.py
 
