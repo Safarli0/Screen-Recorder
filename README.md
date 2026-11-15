@@ -1,14 +1,19 @@
-Windows üçün ekran və kompüter səsi yazıcı (pəncərəli proqram).
+Screen and Computer Audio Recorder for Windows (GUI Application)
 
-## Xüsusiyyətlər
-- Start/Stop düymələri ilə ekran yazısı
-- Kompüterin daxili səsinin yazılması
-- Videonu seçdiyin fayla saxlayır
+Features
 
-## Quraşdırma
+Record your screen using Start/Stop buttons.
+
+Capture internal computer audio.
+
+Save the recorded video to a file of your choice.
+
+Installation
+
 pip install -r requirements.txt
 
-## İşə salma
+Run
+
 python main.py
 
-Səs yazısı yalnız Windows-da işləyir.
+Audio recording is supported on Windows only.
